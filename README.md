@@ -1,3 +1,3 @@
 <div id="header" aligh="center">
-  <img src=https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzhkNmg3NGcweDh5c2gya2k2azZoMDJteWlrdzFteTR2aDcwMGdzOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cPfITd9BeEM6oiO7V7/giphy.gif" width="100"/>
+  <img src=<img src="https://imglink.io/i/a4335372-0811-4e5a-85bd-2758ad579b63.gif" alt="strawberry cake GIF.gif">" width="100"/>
 </div>
